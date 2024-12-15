@@ -1,0 +1,12 @@
+
+
+.btn{
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.list_options{
+    list-style: none;
+    display: flex;
+    gap:  15px;
+}
